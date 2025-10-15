@@ -250,3 +250,5 @@ You can see its logs with
 ```
 sudo journalctl -u moonbeamd -f
 ```
+
+<!-- Auto-update: 2025-10-15T11:17:50.647516 -->
